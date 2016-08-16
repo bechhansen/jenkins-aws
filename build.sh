@@ -1,0 +1,1 @@
+docker build -t bechhansen/jenkins-aws .
